@@ -4,7 +4,6 @@ This project demonstrates how to create a powerful AI chatbot using LangGraph, F
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Workflow](#workflow)
 - [Setup](#setup)
 - [API Endpoints](#api-endpoints)
@@ -14,9 +13,6 @@ This project demonstrates how to create a powerful AI chatbot using LangGraph, F
 
 ## Introduction
 In this project, we will build an AI chatbot that leverages LangGraph for agent management, FastAPI for backend processing, and Streamlit for the frontend UI. This setup allows for dynamic model selection and interactive user experiences.
-
-## Demo
-Watch the demo of the AI Agent Chatbot [here](https://www.youtube.com/watch?v=TO_j16jS5w4&t=1101s&ab_channel=BALAGOPALREDDYPEDDIREDDY).
 
 ## Workflow
 The workflow of the AI Agent Chatbot involves the following steps:
